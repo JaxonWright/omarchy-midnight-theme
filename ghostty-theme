@@ -1,6 +1,6 @@
 background = #000000
 foreground = #EFEFEF
-selection-background = #4.07e+72
+selection-background = #407E70
 window-padding-y = 8,8
 window-padding-x = 8,8
 window-padding-balance = true
