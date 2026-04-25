@@ -1,10 +1,29 @@
 # Omarchy Midnight Theme
 
-A blacked-out theme for DHH's [Omarchy](https://omarchy.org), an opinioned Arch Linux setup, that gives you the inky blacks that your OLED monitor craves.
+A blacked-out theme for DHH's [Omarchy](https://omarchy.org), an opinionated Arch Linux setup, that gives you the inky blacks that your OLED monitor craves.
 
 ## Preview
 
 ![preview image](https://i.imgur.com/Tt1yM5i.png)
+
+## Wallpapers
+
+All wallpapers are pure black (#000000) as a base and have white/grayscale ASCII art on top of that. The default wallpaper is pure black.
+
+The shortcut for switching wallpapers is <kbd>Ctrl</kbd>+<kbd>Super</kbd>+<kbd>Space</kbd>
+
+<table>
+  <tr>
+    <td>OLED Black</td>
+    <td>Hand of Adam</td>
+    <td>Omarchy Window</td>
+  </tr>
+  <tr>
+    <td><img src="backgrounds/1-oled-black.jpg" width="220" alt="OLED Black"></td>
+    <td><img src="backgrounds/2-hand-of-adam.png" width="220" alt="Hand of Adam"></td>
+    <td><img src="backgrounds/3-omarchy-window.png" width="220" alt="Omarchy Window"></td>
+  </tr>
+</table>
 
 ## Installation
 
