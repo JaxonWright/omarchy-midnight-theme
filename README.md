@@ -7,7 +7,7 @@
 
 ## About
 
-A pure-black theme for [Omarchy](https://omarchy.org), DHH's opinionated Arch Linux setup. White text and a touch of green on the inky blacks your OLED monitor craves.
+A pure-black theme for [Omarchy](https://omarchy.org), DHH's opinionated Linux distro. White text and a touch of green on the inky blacks your OLED monitor craves.
 
 ## Preview
 
