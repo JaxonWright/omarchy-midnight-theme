@@ -4,7 +4,7 @@ A blacked-out theme for DHH's [Omarchy](https://omarchy.org), an opinionated Arc
 
 ## Preview
 
-![preview image](https://i.imgur.com/Tt1yM5i.png)
+![preview image](preview.png)
 
 ## Wallpapers
 
