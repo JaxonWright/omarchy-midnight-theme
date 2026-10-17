@@ -5,7 +5,9 @@
   </picture>
 </p>
 
-A blacked-out theme for DHH's [Omarchy](https://omarchy.org), an opinionated Arch Linux setup, that gives you the inky blacks that your OLED monitor craves.
+## About
+
+A pure-black theme for [Omarchy](https://omarchy.org), DHH's opinionated Arch Linux setup. White text and a touch of green on the inky blacks your OLED monitor craves.
 
 ## Preview
 
