@@ -1,11 +1,9 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/wordmark-dark.png">
-    <img alt="midnight" src=".github/wordmark-light.png" width="520">
+    <img alt="Omarchy Midnight Theme" src=".github/wordmark-light.png" width="520">
   </picture>
 </p>
-
-# Omarchy Midnight Theme
 
 A blacked-out theme for DHH's [Omarchy](https://omarchy.org), an opinionated Arch Linux setup, that gives you the inky blacks that your OLED monitor craves.
 
