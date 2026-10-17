@@ -26,7 +26,7 @@ The shortcut for switching wallpapers is <kbd>Ctrl</kbd>+<kbd>Super</kbd>+<kbd>S
     <td>Omarchy Window</td>
   </tr>
   <tr>
-    <td><img src="backgrounds/1-oled-black.jpg" width="220" alt="OLED Black"></td>
+    <td><img src="backgrounds/1-oled-black.png" width="220" alt="OLED Black"></td>
     <td><img src="backgrounds/2-hand-of-adam.png" width="220" alt="Hand of Adam"></td>
     <td><img src="backgrounds/3-omarchy-window.png" width="220" alt="Omarchy Window"></td>
   </tr>
