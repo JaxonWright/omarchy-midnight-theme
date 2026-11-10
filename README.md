@@ -4,6 +4,11 @@
     <img alt="Omarchy Midnight Theme" src=".github/wordmark-light.png" width="520">
   </picture>
 </p>
+<p align="center"> 
+  <a href="https://github.com/tcballard/omarchy-badges">
+    <img src="https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg" alt="Built for Omarchy: Theme">
+  </a>
+</p>
 
 ## About
 
